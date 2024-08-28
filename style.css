@@ -1,0 +1,21 @@
+main{
+margin: auto;
+padding: 10px;
+display: block;
+height: auto;
+width: 80%;
+background-color: cadetblue;
+color: antiquewhite;
+
+}
+.contenedorchiquito{
+
+}
+
+.h1 {
+    display: inline-block;
+}
+.nombre {
+    color: rgb(255, 252, 206);
+}
+
